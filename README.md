@@ -31,7 +31,7 @@ You can also get an heatmap representing the relevance of pixels (blue=less rele
 
 look at the Javadoc for a better explanation.
 
-Examples
+Examples and further explanaion
 -------
-Insert examples here!
+[see here](http://jacopofar.wordpress.com/2014/10/18/seam-carving-in-pure-java/)
 
